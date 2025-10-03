@@ -1,0 +1,22 @@
+,TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+0,1610612754,2025,00,Tyrese Haliburton,Tyrese,tyrese-haliburton,0,G,6-5,185,"FEB 29, 2000",25.0,5,Iowa State,1630169,Traded from SAC on 02/08/22
+1,1610612754,2025,00,Bennedict Mathurin,Bennedict,bennedict-mathurin,00,G-F,6-5,210,"JUN 19, 2002",23.0,3,Arizona,1631097,#6 Pick in 2022 Draft
+2,1610612754,2025,00,Obi Toppin,Obi,obi-toppin,1,F,6-9,220,"MAR 04, 1998",27.0,5,Dayton,1630167,Traded from NYK on 07/07/23
+3,1610612754,2025,00,Andrew Nembhard,Andrew,andrew-nembhard,2,G-F,6-4,191,"JAN 16, 2000",25.0,3,Gonzaga,1629614,#31 Pick in 2022 Draft
+4,1610612754,2025,00,Delon Wright,Delon,delon-wright,3,G,6-5,185,"APR 26, 1992",33.0,10,Utah,1626153,Signed on 09/27/25
+5,1610612754,2025,00,Taelon Peter,Taelon,taelon-peter,4,G,6-4,185,"FEB 27, 2002",23.0,R,Liberty,1643007,#54 Pick in 2025 Draft
+6,1610612754,2025,00,Jarace Walker,Jarace,jarace-walker,5,F,6-7,235,"SEP 04, 2003",22.0,2,Houston,1641716,Draft Rights Traded from WAS on 06/23/23
+7,1610612754,2025,00,Kam Jones,Kam,kam-jones,7,G,6-5,200,"FEB 25, 2002",23.0,R,Marquette,1642880,Draft Rights Traded from SAS on 07/06/25
+8,1610612754,2025,00,T.J. McConnell,T.J.,tj-mcconnell,9,G,6-1,190,"MAR 25, 1992",33.0,10,Arizona,204456,Signed on 07/29/19
+9,1610612754,2025,00,RayJ Dennis,RayJ,rayj-dennis,10,G,6-2,180,"MAR 30, 2001",24.0,1,Baylor,1642484,Signed on 01/03/25
+10,1610612754,2025,00,James Wiseman,James,james-wiseman,11,C,6-11,240,"MAR 31, 2001",24.0,4,Memphis,1630164,Signed on 07/07/25
+11,1610612754,2025,00,Johnny Furphy,Johnny,johnny-furphy,12,G,6-9,200,"DEC 08, 2004",20.0,1,Kansas,1642277,Draft Rights Traded from SAS on 07/06/24
+12,1610612754,2025,00,Tony Bradley,Tony,tony-bradley,13,C-F,6-11,248,"JAN 08, 1998",27.0,7,North Carolina,1628396,Signed on 03/02/25
+13,1610612754,2025,00,Jalen Slawson,Jalen,jalen-slawson,18,F,6-7,215,"OCT 22, 1999",25.0,1,Furman,1641771,Signed on 09/09/25
+14,1610612754,2025,00,Isaiah Jackson,Isaiah,isaiah-jackson,22,F,6-9,205,"JAN 10, 2002",23.0,4,Kentucky,1630543,Draft Rights Traded from LAL on 08/06/21
+15,1610612754,2025,00,Aaron Nesmith,Aaron,aaron-nesmith,23,G-F,6-6,215,"OCT 16, 1999",25.0,5,Vanderbilt,1630174,Traded from BOS on 07/09/22
+16,1610612754,2025,00,Ben Sheppard,Ben,ben-sheppard,26,G,6-6,190,"JUL 16, 2001",24.0,2,Belmont,1641767,#26 Pick in 2023 Draft
+17,1610612754,2025,00,Quenton Jackson,Quenton,quenton-jackson,29,G,6-5,173,"SEP 15, 1998",27.0,3,Texas A&M,1631245,Signed on 03/04/24
+18,1610612754,2025,00,Jay Huff,Jay,jay-huff,32,C,7-1,240,"AUG 25, 1997",28.0,4,Virginia,1630643,Traded from MEM on 07/06/25
+19,1610612754,2025,00,Gabe McGlothan,Gabe,gabe-mcglothan,41,F,6-7,235,"MAR 03, 1999",26.0,R,Grand Canyon,1642440,Signed on 09/23/25
+20,1610612754,2025,00,Pascal Siakam,Pascal,pascal-siakam,43,F,6-8,245,"APR 02, 1994",31.0,9,New Mexico State,1627783,Traded from TOR on 01/17/24

@@ -1,0 +1,22 @@
+,TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+0,1610612762,2025,00,Matthew Murrell,Matthew,matthew-murrell,,G,6-4,200,"DEC 19, 2001",23.0,R,Mississippi,1641802,Signed on 09/22/25
+1,1610612762,2025,00,Steven Crowl,Steven,steven-crowl,,C,7-0,247,"JUL 01, 2001",24.0,R,Wisconsin,1643080,Signed on 09/22/25
+2,1610612762,2025,00,Taylor Hendricks,Taylor,taylor-hendricks,0,F,6-9,215,"NOV 22, 2003",21.0,2,Central Florida,1641707,#9 Pick in 2023 Draft
+3,1610612762,2025,00,Kyle Anderson,Kyle,kyle-anderson,2,F-G,6-9,230,"SEP 20, 1993",32.0,11,UCLA,203937,Traded from MIA on 07/07/25
+4,1610612762,2025,00,Keyonte George,Keyonte,keyonte-george,3,G,6-4,185,"NOV 08, 2003",21.0,2,Baylor,1641718,#16 Pick in 2023 Draft
+5,1610612762,2025,00,Mo Bamba,Mo,mo-bamba,4,C,7-0,231,"MAY 12, 1998",27.0,7,Texas,1628964,Signed on 09/25/25
+6,1610612762,2025,00,Cody Williams,Cody,cody-williams,5,F,6-7,190,"NOV 20, 2004",20.0,1,Colorado,1642262,#10 Pick in 2024 Draft
+7,1610612762,2025,00,Isaiah Collier,Isaiah,isaiah-collier,8,G,6-3,210,"OCT 08, 2004",20.0,1,Southern California,1642268,#29 Pick in 2024 Draft
+8,1610612762,2025,00,Svi Mykhailiuk,Svi,svi-mykhailiuk,10,G-F,6-7,205,"JUN 10, 1997",28.0,7,Kansas,1629004,Signed on 08/10/24
+9,1610612762,2025,00,Walter Clayton Jr.,Walter,walter-clayton-jr,13,G,6-2,195,"MAR 06, 2003",22.0,R,Florida,1642383,Draft Rights Traded from WAS on 06/25/25
+10,1610612762,2025,00,Elijah Harkless,Elijah,elijah-harkless,16,G,6-3,195,"FEB 03, 2000",25.0,1,UNLV,1641989,Signed on 01/01/25
+11,1610612762,2025,00,John Tonje,John,john-tonje,17,G,6-5,218,"APR 23, 2001",24.0,R,Wisconsin,1642910,#53 Pick in 2025 Draft
+12,1610612762,2025,00,Ace Bailey,Ace,ace-bailey,19,F,6-7,200,"AUG 13, 2006",19.0,R,Rutgers,1642846,#5 Pick in 2025 Draft
+13,1610612762,2025,00,Kyle Filipowski,Kyle,kyle-filipowski,22,C,6-11,250,"NOV 07, 2003",21.0,1,Duke,1642271,#32 Pick in 2024 Draft
+14,1610612762,2025,00,Lauri Markkanen,Lauri,lauri-markkanen,23,F-C,7-0,240,"MAY 22, 1997",28.0,8,Arizona,1628374,Traded from CLE on 09/03/22
+15,1610612762,2025,00,Walker Kessler,Walker,walker-kessler,24,C,7-0,245,"JUL 26, 2001",24.0,3,Auburn,1631117,Draft Rights Traded from MIN on 07/06/22
+16,1610612762,2025,00,Brice Sensabaugh,Brice,brice-sensabaugh,28,F,6-5,235,"OCT 30, 2003",21.0,2,Ohio State,1641729,#28 Pick in 2023 Draft
+17,1610612762,2025,00,Jusuf Nurkić,Jusuf,jusuf-nurkić,30,C,7-0,290,"AUG 23, 1994",31.0,11,Cedevita,203994,Traded from CHA on 06/29/25
+18,1610612762,2025,00,Georges Niang,Georges,georges-niang,31,F,6-7,230,"JUN 17, 1993",32.0,9,Iowa State,1627777,Traded from BOS on 08/06/25
+19,1610612762,2025,00,Oscar Tshiebwe,Oscar,oscar-tshiebwe,34,F-C,6-8,255,"NOV 27, 1999",25.0,2,Kentucky,1631131,Signed on 08/12/24
+20,1610612762,2025,00,Kevin Love,Kevin,kevin-love,42,F-C,6-8,251,"SEP 07, 1988",37.0,17,UCLA,201567,Traded from MIA on 07/07/25

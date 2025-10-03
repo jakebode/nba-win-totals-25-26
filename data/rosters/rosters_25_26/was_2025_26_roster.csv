@@ -1,0 +1,22 @@
+,TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+0,1610612764,2025,00,Akoldah Gak,Akoldah,akoldah-gak,,F,6-11,225,"JUL 12, 2002",23.0,R,Illawarra,1631305,Signed on 09/30/25
+1,1610612764,2025,00,Jonathan Pierre,Jonathan,jonathan-pierre,,,,,"APR 20, 2003",22.0,R,Belmont,1642952,Signed on 09/19/25
+2,1610612764,2025,00,Sharife Cooper,Sharife,sharife-cooper,00,G,6-0,176,"JUN 11, 2001",24.0,1,Auburn,1630536,Signed on 09/19/25
+3,1610612764,2025,00,Bilal Coulibaly,Bilal,bilal-coulibaly,0,G,6-8,195,"JUL 26, 2004",21.0,2,Metropolitans 92,1641731,Draft Rights Traded from IND on 06/23/23
+4,1610612764,2025,00,Tristan Vukcevic,Tristan,tristan-vukcevic,00,F,7-0,220,"MAR 11, 2003",22.0,2,Real Madrid,1641774,#42 Pick in 2023 Draft
+5,1610612764,2025,00,Cam Whitmore,Cam,cam-whitmore,1,F,6-7,230,"JUL 08, 2004",21.0,2,Villanova,1641715,Traded from HOU on 07/06/25
+6,1610612764,2025,00,CJ McCollum,CJ,cj-mccollum,3,G,6-3,190,"SEP 19, 1991",34.0,12,Lehigh,203468,Traded from NOP on 07/06/25
+7,1610612764,2025,00,AJ Johnson,AJ,aj-johnson,4,G,6-5,160,"DEC 01, 2004",20.0,1,Illawarra,1642358,Traded from MIL on 02/06/25
+8,1610612764,2025,00,Jamir Watkins,Jamir,jamir-watkins,5,F,6-7,210,"JUL 06, 2001",24.0,R,Florida State,1642364,#43 Pick in 2025 Draft
+9,1610612764,2025,00,Bub Carrington,Bub,bub-carrington,7,G,6-4,190,"JUL 21, 2005",20.0,1,Pittsburgh,1642267,Draft Rights Traded from POR on 07/06/24
+10,1610612764,2025,00,Malaki Branham,Malaki,malaki-branham,8,F,6-4,180,"MAY 12, 2003",22.0,3,Ohio State,1631103,Traded from SAS on 07/09/25
+11,1610612764,2025,00,Justin Champagnie,Justin,justin-champagnie,9,G-F,6-6,206,"JUN 29, 2001",24.0,4,Pittsburgh,1630551,Signed on 02/22/24
+12,1610612764,2025,00,Tre Johnson,Tre,tre-johnson,12,G,6-5,190,"MAR 07, 2006",19.0,R,Texas,1642848,#6 Pick in 2025 Draft
+13,1610612764,2025,00,Anthony Gill,Anthony,anthony-gill,16,F,6-8,230,"OCT 17, 1992",32.0,5,Virginia,1630264,Signed on 11/30/20
+14,1610612764,2025,00,Kyshawn George,Kyshawn,kyshawn-george,18,F,6-8,200,"DEC 12, 2003",21.0,1,Miami,1642273,Draft Rights Traded from NYK on 06/26/24
+15,1610612764,2025,00,Alex Sarr,Alex,alex-sarr,20,C,7-0,205,"APR 26, 2005",20.0,1,Washington Wizards,1642259,#2 Pick in 2024 Draft
+16,1610612764,2025,00,Khris Middleton,Khris,khris-middleton,22,F,6-7,222,"AUG 12, 1991",34.0,13,Texas A&M,203114,Traded from MIL on 02/06/25
+17,1610612764,2025,00,Corey Kispert,Corey,corey-kispert,24,F,6-6,224,"MAR 03, 1999",26.0,4,Gonzaga,1630557,#15 Pick in 2021 Draft
+18,1610612764,2025,00,Will Riley,Will,will-riley,27,F,6-8,180,"FEB 10, 2006",19.0,R,Illinois-Urbana-Champaign,1642860,Draft Rights Traded from UTA on 06/25/25
+19,1610612764,2025,00,Dillon Jones,Dillon,dillon-jones,33,F,6-5,235,"OCT 29, 2001",23.0,1,Weber State,1641794,Traded from OKC on 06/28/25
+20,1610612764,2025,00,Marvin Bagley III,Marvin,marvin-bagley-iii,35,F,6-10,235,"MAR 14, 1999",26.0,7,Duke,1628963,Signed on 07/10/25

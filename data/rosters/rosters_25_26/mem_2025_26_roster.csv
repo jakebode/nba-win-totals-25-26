@@ -1,0 +1,22 @@
+,TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+0,1610612763,2025,00,Tyler Burton,Tyler,tyler-burton,,F,6-7,215,"FEB 11, 2000",25.0,R,Richmond,1631174,Signed on 09/06/25
+1,1610612763,2025,00,Lawson Lovering,Lawson,lawson-lovering,,,,,"MAY 09, 2003",22.0,R,,1643133,Signed on 09/06/25
+2,1610612763,2025,00,Jaylen Wells,Jaylen,jaylen-wells,0,F,6-8,,"AUG 26, 2003",22.0,1,Washington State,1642377,#39 Pick in 2024 Draft
+3,1610612763,2025,00,Scotty Pippen Jr.,Scotty,scotty-pippen-jr,1,G,6-1,170,"NOV 10, 2000",24.0,3,Vanderbilt,1630590,Signed on 01/16/24
+4,1610612763,2025,00,Jock Landale,Jock,jock-landale,2,C,6-11,255,"OCT 25, 1995",29.0,4,St. Mary's,1629111,Signed on 07/15/25
+5,1610612763,2025,00,Ty Jerome,Ty,ty-jerome,2,G-F,6-5,195,"JUL 08, 1997",28.0,6,Virginia,1629660,Signed on 07/14/25
+6,1610612763,2025,00,Kentavious Caldwell-Pope,Kentavious,kentavious-caldwell-pope,3,G,6-5,204,"FEB 18, 1993",32.0,12,Georgia,203484,Traded from ORL on 06/15/25
+7,1610612763,2025,00,Vince Williams Jr.,Vince,vince-williams-jr,5,G,6-4,205,"AUG 30, 2000",25.0,3,Virginia Commonwealth,1631246,#47 Pick in 2022 Draft
+8,1610612763,2025,00,Santi Aldama,Santi,santi-aldama,7,F-C,7-0,215,"JAN 10, 2001",24.0,4,Loyola-Maryland,1630583,Draft Rights Traded from UTA on 08/07/21
+9,1610612763,2025,00,Jaren Jackson Jr.,Jaren,jaren-jackson-jr,8,F-C,6-10,242,"SEP 15, 1999",26.0,7,Michigan State,1628991,#4 Pick in 2018 Draft
+10,1610612763,2025,00,Olivier-Maxence Prosper,Olivier-Maxence,olivier-maxence-prosper,8,F,6-7,230,"JUL 03, 2002",23.0,2,Marquette,1641765,Signed on 09/04/25
+11,1610612763,2025,00,Javon Small,Javon,javon-small,10,G,6-3,190,"DEC 19, 2002",22.0,R,West Virginia,1642914,#48 Pick in 2025 Draft
+12,1610612763,2025,00,Ja Morant,Ja,ja-morant,12,G,6-2,174,"AUG 10, 1999",26.0,6,Murray State,1629630,#2 Pick in 2019 Draft
+13,1610612763,2025,00,Braxton Key,Braxton,braxton-key,12,F,6-8,225,"FEB 14, 1997",28.0,4,Virginia,1630296,Signed on 09/23/25
+14,1610612763,2025,00,PJ Hall,PJ,pj-hall,13,C,6-10,245,"FEB 21, 2002",23.0,1,Clemson,1641790,Signed on 07/20/25
+15,1610612763,2025,00,Zach Edey,Zach,zach-edey,14,C,7-4,305,"MAY 14, 2002",23.0,1,Purdue,1641744,#9 Pick in 2024 Draft
+16,1610612763,2025,00,Brandon Clarke,Brandon,brandon-clarke,15,F,6-8,215,"SEP 19, 1996",29.0,6,Gonzaga,1629634,Draft Rights Traded from OKC on 07/06/19
+17,1610612763,2025,00,Cedric Coward,Cedric,cedric-coward,23,G,6-6,206,"SEP 11, 2003",22.0,R,Washington State,1642907,Draft Rights Traded from POR on 06/25/25
+18,1610612763,2025,00,Cam Spencer,Cam,cam-spencer,24,G,6-4,205,"APR 06, 2000",25.0,1,Connecticut,1642285,Draft Rights Traded from DET on 07/06/24
+19,1610612763,2025,00,GG Jackson,GG,gg-jackson,45,F,6-9,210,"DEC 17, 2004",20.0,2,South Carolina,1641713,#45 Pick in 2023 Draft
+20,1610612763,2025,00,John Konchar,John,john-konchar,46,G,6-5,210,"MAR 22, 1996",29.0,6,Indiana-Purdue Fort Wayne,1629723,Signed on 07/07/19

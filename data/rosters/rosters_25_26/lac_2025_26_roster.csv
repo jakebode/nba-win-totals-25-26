@@ -1,0 +1,22 @@
+,TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+0,1610612746,2025,00,John Poulakidas,John,john-poulakidas,,G,,,"APR 04, 2003",22.0,R,Yale,1642967,Signed on 09/26/25
+1,1610612746,2025,00,Jahmyl Telfort,Jahmyl,jahmyl-telfort,,,,,"APR 30, 2001",24.0,R,,1643141,Signed on 09/26/25
+2,1610612746,2025,00,Bradley Beal,Bradley,bradley-beal,0,G,6-4,207,"JUN 28, 1993",32.0,13,Florida,203078,Signed on 07/18/25
+3,1610612746,2025,00,James Harden,James,james-harden,1,G,6-5,220,"AUG 26, 1989",36.0,16,Arizona State,201935,Traded from PHI on 11/01/23
+4,1610612746,2025,00,Kawhi Leonard,Kawhi,kawhi-leonard,2,F,6-7,225,"JUN 29, 1991",34.0,13,San Diego State,202695,Signed on 07/09/19
+5,1610612746,2025,00,Chris Paul,Chris,chris-paul,3,G,6-0,175,"MAY 06, 1985",40.0,20,Wake Forest,101108,Signed on 07/21/25
+6,1610612746,2025,00,Kobe Sanders,Kobe,kobe-sanders,4,G,6-9,207,"MAY 30, 2002",23.0,R,Nevada,1642920,Draft Rights Traded from NYK on 06/26/25
+7,1610612746,2025,00,Derrick Jones Jr.,Derrick,derrick-jones-jr,5,F,6-6,210,"FEB 15, 1997",28.0,9,UNLV,1627884,Signed on 07/09/24
+8,1610612746,2025,00,Kris Dunn,Kris,kris-dunn,8,G,6-3,205,"MAR 18, 1994",31.0,9,Providence,1627739,Traded from UTA on 07/18/24
+9,1610612746,2025,00,Trentyn Flowers,Trentyn,trentyn-flowers,9,F,6-9,185,"MAR 08, 2005",20.0,1,Adelaide,1642280,Signed on 07/24/24
+10,1610612746,2025,00,Jason Preston,Jason,jason-preston,10,G,6-3,181,"AUG 10, 1999",26.0,2,Ohio,1630554,Signed on 08/11/25
+11,1610612746,2025,00,Bogdan Bogdanović,Bogdan,bogdan-bogdanović,10,G,6-5,225,"AUG 18, 1992",33.0,8,Fenerbahce,203992,Traded from ATL on 02/06/25
+12,1610612746,2025,00,Brook Lopez,Brook,brook-lopez,11,C,7-1,282,"APR 01, 1988",37.0,17,Stanford,201572,Signed on 07/06/25
+13,1610612746,2025,00,Jordan Miller,Jordan,jordan-miller,11,G,6-5,194,"JAN 23, 2000",25.0,2,Miami,1641757,#48 Pick in 2023 Draft
+14,1610612746,2025,00,Cam Christie,Cam,cam-christie,12,G,6-6,190,"JUL 24, 2005",20.0,1,Minnesota,1642353,#46 Pick in 2024 Draft
+15,1610612746,2025,00,Yanic Konan Niederhäuser,Yanic Konan,yanic-konan-niederhäuser,14,C,6-11,242,"MAR 14, 2003",22.0,R,Penn State,1642949,#30 Pick in 2025 Draft
+16,1610612746,2025,00,John Collins,John,john-collins,20,F-C,6-9,226,"SEP 23, 1997",28.0,8,Wake Forest,1628381,Traded from UTA on 07/07/25
+17,1610612746,2025,00,Patrick Baldwin Jr.,Patrick,patrick-baldwin-jr,23,F,6-9,220,"NOV 18, 2002",22.0,3,Wisconsin-Milwaukee,1631116,Signed on 03/01/25
+18,1610612746,2025,00,Kobe Brown,Kobe,kobe-brown,24,F,6-7,250,"JAN 01, 2000",25.0,2,Missouri,1641738,#30 Pick in 2023 Draft
+19,1610612746,2025,00,Nicolas Batum,Nicolas,nicolas-batum,33,G-F,6-8,230,"DEC 14, 1988",36.0,17,Le Mans,201587,Signed on 07/09/24
+20,1610612746,2025,00,Ivica Zubac,Ivica,ivica-zubac,40,C,7-0,240,"MAR 18, 1997",28.0,9,Mega Basket,1627826,Traded from LAL on 02/07/19

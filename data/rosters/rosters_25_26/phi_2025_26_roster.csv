@@ -1,0 +1,22 @@
+,TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+0,1610612755,2025,00,Johni Broome,Johni,johni-broome,,F,6-10,235,"JUL 19, 2002",23.0,R,Auburn,1641780,#35 Pick in 2025 Draft
+1,1610612755,2025,00,Hunter Sallis,Hunter,hunter-sallis,,G,6-5,185,"MAR 26, 2003",22.0,R,Wake Forest,1642282,Signed on 07/01/25
+2,1610612755,2025,00,VJ Edgecombe,VJ,vj-edgecombe,,G,6-5,180,"JUL 30, 2005",20.0,R,Baylor,1642845,#3 Pick in 2025 Draft
+3,1610612755,2025,00,Saint Thomas,Saint,saint-thomas,,,,,"MAY 01, 2003",22.0,R,,1643148,Signed on 09/26/25
+4,1610612755,2025,00,Tyrese Maxey,Tyrese,tyrese-maxey,0,G,6-2,200,"NOV 04, 2000",24.0,5,Kentucky,1630178,#21 Pick in 2020 Draft
+5,1610612755,2025,00,Andre Drummond,Andre,andre-drummond,1,C,6-11,279,"AUG 10, 1993",32.0,13,Connecticut,203083,Signed on 07/07/24
+6,1610612755,2025,00,Kennedy Chandler,Kennedy,kennedy-chandler,1,G,5-11,170,"SEP 16, 2002",23.0,1,Tennessee,1631113,Signed on 09/22/25
+7,1610612755,2025,00,Quentin Grimes,Quentin,quentin-grimes,5,G,6-4,210,"MAY 08, 2000",25.0,4,Houston,1629656,Traded from DAL on 02/04/25
+8,1610612755,2025,00,Kyle Lowry,Kyle,kyle-lowry,7,G,6-0,196,"MAR 25, 1986",39.0,19,Villanova,200768,Signed on 02/13/24
+9,1610612755,2025,00,Paul George,Paul,paul-george,8,F,6-8,220,"MAY 02, 1990",35.0,15,Fresno State,202331,Signed on 07/06/24
+10,1610612755,2025,00,Kelly Oubre Jr.,Kelly,kelly-oubre-jr,9,F-G,6-8,203,"DEC 09, 1995",29.0,10,Kansas,1626162,Signed on 09/26/23
+11,1610612755,2025,00,Justin Edwards,Justin,justin-edwards,11,F,6-7,203,"DEC 16, 2003",21.0,1,Kentucky,1642348,Signed on 07/04/24
+12,1610612755,2025,00,Trendon Watford,Trendon,trendon-watford,12,G-F,6-8,237,"NOV 09, 2000",24.0,4,Louisiana State,1630570,Signed on 07/02/25
+13,1610612755,2025,00,Jared McCain,Jared,jared-mccain,20,G,6-3,195,"FEB 20, 2004",21.0,1,Duke,1642272,#16 Pick in 2024 Draft
+14,1610612755,2025,00,Emoni Bates,Emoni,emoni-bates,21,F,6-8,202,"JAN 28, 2004",21.0,2,Eastern Michigan,1641734,Signed on 09/22/25
+15,1610612755,2025,00,Joel Embiid,Joel,joel-embiid,21,C-F,7-0,280,"MAR 16, 1994",31.0,9,Kansas,203954,#3 Pick in 2014 Draft
+16,1610612755,2025,00,Eric Gordon,Eric,eric-gordon,23,G,6-3,215,"DEC 25, 1988",36.0,17,Indiana,201569,Signed on 07/10/24
+17,1610612755,2025,00,Dominick Barlow,Dominick,dominick-barlow,26,F,6-8,215,"MAY 26, 2003",22.0,3,Overtime Elite,1631230,Signed on 07/09/25
+18,1610612755,2025,00,Adem Bona,Adem,adem-bona,30,F,6-10,235,"MAR 28, 2003",22.0,1,UCLA,1641737,#41 Pick in 2024 Draft
+19,1610612755,2025,00,Malcolm Hill,Malcolm,malcolm-hill,33,F,6-6,220,"OCT 26, 1995",29.0,2,Illinois,1630792,Signed on 09/22/25
+20,1610612755,2025,00,Jabari Walker,Jabari,jabari-walker,34,F,6-7,237,"JUL 30, 2002",23.0,3,Colorado,1631133,Signed on 07/05/25

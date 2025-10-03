@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nba-win-totals-25-26"
+version = "0.1.0"
+description = "Experiments with nba_api and custom analysis tools to predict win totals for NBA teams during the 2025-26 regular season"
+authors = [
+  { name = "Jake Bode" }
+]
+dependencies = [
+  "nba_api",
+  "pandas",
+  "matplotlib",
+  "scikit-learn",
+  "seaborn",
+  "jupyter"
+]
+requires-python = ">=3.10"
+
+[tool.black]
+line-length = 88
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

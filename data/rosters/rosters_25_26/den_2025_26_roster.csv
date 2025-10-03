@@ -1,0 +1,20 @@
+,TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+0,1610612743,2025,00,Tamar Bates,Tamar,tamar-bates,,G,6-5,195,"FEB 21, 2003",22.0,R,Missouri,1642926,Signed on 07/02/25
+1,1610612743,2025,00,Curtis Jones,Curtis,curtis-jones,,G,6-4,195,"OCT 04, 2001",23.0,R,Iowa State,1642938,Signed on 07/21/25
+2,1610612743,2025,00,Christian Braun,Christian,christian-braun,0,G,6-6,220,"APR 17, 2001",24.0,3,Kansas,1631128,#21 Pick in 2022 Draft
+3,1610612743,2025,00,Julian Strawther,Julian,julian-strawther,3,G,6-6,205,"APR 18, 2002",23.0,2,Gonzaga,1631124,Draft Rights Traded from IND on 06/23/23
+4,1610612743,2025,00,Moses Brown,Moses,moses-brown,3,C,7-2,258,"OCT 13, 1999",25.0,6,UCLA,1629650,Signed on 09/12/25
+5,1610612743,2025,00,Hunter Tyson,Hunter,hunter-tyson,5,F,6-8,215,"JUN 13, 2000",25.0,2,Clemson,1641816,Draft Rights Traded from OKC on 06/23/23
+6,1610612743,2025,00,Peyton Watson,Peyton,peyton-watson,8,G,6-7,200,"SEP 11, 2002",23.0,3,UCLA,1631212,Draft Rights Traded from OKC on 06/23/22
+7,1610612743,2025,00,Tim Hardaway Jr.,Tim,tim-hardaway-jr,10,G-F,6-5,205,"MAR 16, 1992",33.0,12,Michigan,203501,Signed on 07/10/25
+8,1610612743,2025,00,Bruce Brown,Bruce,bruce-brown,11,G-F,6-4,202,"AUG 15, 1996",29.0,7,Miami,1628971,Signed on 07/09/25
+9,1610612743,2025,00,DaRon Holmes II,DaRon,daron-holmes-ii,14,F,6-10,225,"AUG 15, 2002",23.0,R,Dayton,1641747,Draft Rights Traded from PHX on 06/26/24
+10,1610612743,2025,00,Nikola Jokić,Nikola,nikola-jokić,15,C,6-11,284,"FEB 19, 1995",30.0,10,Mega Basket,203999,#41 Pick in 2014 Draft
+11,1610612743,2025,00,Jonas Valančiūnas,Jonas,jonas-valančiūnas,17,C,6-11,265,"MAY 06, 1992",33.0,13,Lietuvos rytas Vilnius,202685,Traded from SAC on 07/13/25
+12,1610612743,2025,00,Kessler Edwards,Kessler,kessler-edwards,20,F,6-7,203,"AUG 09, 2000",25.0,4,Pepperdine,1630556,Signed on 08/11/25
+13,1610612743,2025,00,Spencer Jones,Spencer,spencer-jones,21,F,6-7,225,"JUN 14, 2001",24.0,1,Stanford,1642461,Signed on 07/30/24
+14,1610612743,2025,00,Zeke Nnaji,Zeke,zeke-nnaji,22,F-C,6-9,240,"JAN 09, 2001",24.0,5,Arizona,1630192,#22 Pick in 2020 Draft
+15,1610612743,2025,00,Cameron Johnson,Cameron,cameron-johnson,23,F,6-8,210,"MAR 03, 1996",29.0,6,North Carolina,1629661,Traded from BKN on 07/08/25
+16,1610612743,2025,00,Jalen Pickett,Jalen,jalen-pickett,24,G,6-2,202,"OCT 22, 1999",25.0,2,Penn State,1629618,Draft Rights Traded from IND on 06/23/23
+17,1610612743,2025,00,Jamal Murray,Jamal,jamal-murray,27,G,6-4,215,"FEB 23, 1997",28.0,8,Kentucky,1627750,#7 Pick in 2016 Draft
+18,1610612743,2025,00,Aaron Gordon,Aaron,aaron-gordon,32,F,6-8,235,"SEP 16, 1995",30.0,11,Arizona,203932,Traded from ORL on 03/25/21

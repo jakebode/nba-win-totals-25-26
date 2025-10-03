@@ -1,0 +1,62 @@
+# python cache / build
+__pycache__/
+*.py[cod]
+*$py.class
+
+# distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# IDE / editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# testing / coverage
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+.tox/
+nosetests.xml
+junit.xml
+
+# logs
+*.log
+
+# macOS cruft
+.DS_Store
+
+# local settings
+*.env
+.envrc
+
+# jupyter / notebooks
+.ipynb_checkpoints
+
+# pip / setuptools artifacts
+*.egg-info/
+dist/
+build/

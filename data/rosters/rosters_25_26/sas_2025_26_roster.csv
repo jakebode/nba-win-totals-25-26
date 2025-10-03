@@ -1,0 +1,22 @@
+,TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+0,1610612759,2025,00,Jordan McLaughlin,Jordan,jordan-mclaughlin,0,G,6-0,185,"APR 09, 1996",29.0,6,Southern California,1629162,Traded from SAC on 02/03/25
+1,1610612759,2025,00,Victor Wembanyama,Victor,victor-wembanyama,1,F-C,7-3,235,"JAN 04, 2004",21.0,2,Metropolitans 92,1641705,#1 Pick in 2023 Draft
+2,1610612759,2025,00,Dylan Harper,Dylan,dylan-harper,2,G,6-6,215,"MAR 02, 2006",19.0,R,Rutgers,1642844,#2 Pick in 2025 Draft
+3,1610612759,2025,00,Keldon Johnson,Keldon,keldon-johnson,3,F-G,6-5,220,"OCT 11, 1999",25.0,6,Kentucky,1629640,#29 Pick in 2019 Draft
+4,1610612759,2025,00,De'Aaron Fox,De'Aaron,deaaron-fox,4,G,6-3,185,"DEC 20, 1997",27.0,8,Kentucky,1628368,Traded from SAC on 02/03/25
+5,1610612759,2025,00,Stephon Castle,Stephon,stephon-castle,5,G,6-6,215,"NOV 01, 2004",20.0,1,Connecticut,1642264,#4 Pick in 2024 Draft
+6,1610612759,2025,00,Luke Kornet,Luke,luke-kornet,7,C-F,7-1,250,"JUL 15, 1995",30.0,8,Vanderbilt,1628436,Signed on 07/07/25
+7,1610612759,2025,00,Kelly Olynyk,Kelly,kelly-olynyk,8,F-C,6-11,240,"APR 19, 1991",34.0,12,Gonzaga,203482,Traded from WAS on 07/09/25
+8,1610612759,2025,00,Jeremy Sochan,Jeremy,jeremy-sochan,10,F,6-8,230,"MAY 20, 2003",22.0,3,Baylor,1631110,#9 Pick in 2022 Draft
+9,1610612759,2025,00,Carter Bryant,Carter,carter-bryant,11,F,6-8,220,"NOV 26, 2005",19.0,R,Arizona,1642868,#14 Pick in 2025 Draft
+10,1610612759,2025,00,Adam Flagler,Adam,adam-flagler,14,G,6-3,180,"DEC 01, 1999",25.0,2,Baylor,1641745,Signed on 08/08/25
+11,1610612759,2025,00,Stanley Umude,Stanley,stanley-umude,17,G,6-6,210,"APR 12, 1999",26.0,3,Arkansas,1630649,Signed on 09/02/25
+12,1610612759,2025,00,Bismack Biyombo,Bismack,bismack-biyombo,18,C,6-8,255,"AUG 28, 1992",33.0,14,Baloncesto Fuenlabrada,202687,Signed on 02/09/25
+13,1610612759,2025,00,Devin Vassell,Devin,devin-vassell,24,G-F,6-5,200,"AUG 23, 2000",25.0,5,Florida State,1630170,#11 Pick in 2020 Draft
+14,1610612759,2025,00,David Jones Garcia,David,david-jones-garcia,25,F,6-6,210,"NOV 24, 2001",23.0,R,Memphis,1642357,Signed on 07/23/25
+15,1610612759,2025,00,Riley Minix,Riley,riley-minix,27,F,6-7,230,"SEP 22, 2000",25.0,1,Morehead State,1642434,Signed on 07/20/24
+16,1610612759,2025,00,Julian Champagnie,Julian,julian-champagnie,30,F,6-7,217,"JUN 29, 2001",24.0,3,St. John's,1630577,
+17,1610612759,2025,00,Micah Potter,Micah,micah-potter,33,C,6-9,248,"APR 06, 1998",27.0,4,Wisconsin,1630695,Signed on 08/06/25
+18,1610612759,2025,00,Harrison Barnes,Harrison,harrison-barnes,40,F,6-8,225,"MAY 30, 1992",33.0,13,North Carolina,203084,Traded from SAC on 07/08/24
+19,1610612759,2025,00,Lindy Waters III,Lindy,lindy-waters-iii,43,F,6-6,210,"JUL 28, 1997",28.0,4,Oklahoma State,1630322,Signed on 07/24/25
+20,1610612759,2025,00,Harrison Ingram,Harrison,harrison-ingram,55,F,6-5,230,"NOV 27, 2002",22.0,1,North Carolina,1631127,#48 Pick in 2024 Draft

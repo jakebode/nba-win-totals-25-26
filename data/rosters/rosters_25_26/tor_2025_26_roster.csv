@@ -1,0 +1,22 @@
+,TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+0,1610612761,2025,00,Chucky Hepburn,Chucky,chucky-hepburn,,G,6-2,190,"FEB 09, 2003",22.0,R,Louisville,1642935,Signed on 07/01/25
+1,1610612761,2025,00,A.J. Lawson,A.J.,aj-lawson,0,G,6-6,179,"JUL 15, 2000",25.0,3,South Carolina,1630639,Signed on 12/11/24
+2,1610612761,2025,00,Gradey Dick,Gradey,gradey-dick,1,G-F,6-6,200,"NOV 20, 2003",21.0,2,Kansas,1641711,#13 Pick in 2023 Draft
+3,1610612761,2025,00,Jonathan Mogbo,Jonathan,jonathan-mogbo,2,F,6-9,225,"OCT 29, 2001",23.0,1,San Francisco,1642367,#31 Pick in 2024 Draft
+4,1610612761,2025,00,Brandon Ingram,Brandon,brandon-ingram,3,F,6-8,190,"SEP 02, 1997",28.0,9,Duke,1627742,Traded from NOP on 02/06/25
+5,1610612761,2025,00,Scottie Barnes,Scottie,scottie-barnes,4,F-G,6-7,237,"AUG 01, 2001",24.0,4,Florida State,1630567,#4 Pick in 2021 Draft
+6,1610612761,2025,00,Immanuel Quickley,Immanuel,immanuel-quickley,5,G,6-2,190,"JUN 17, 1999",26.0,5,Kentucky,1630193,Traded from NYK on 12/30/23
+7,1610612761,2025,00,Jared Rhoden,Jared,jared-rhoden,8,G,6-5,210,"AUG 27, 1999",26.0,3,Seton Hall,1631197,Signed on 02/19/25
+8,1610612761,2025,00,RJ Barrett,RJ,rj-barrett,9,F-G,6-6,214,"JUN 14, 2000",25.0,6,Duke,1629628,Traded from NYK on 12/30/23
+9,1610612761,2025,00,Collin Murray-Boyles,Collin,collin-murray-boyles,12,F,6-7,245,"JUN 10, 2005",20.0,R,South Carolina,1642867,#9 Pick in 2025 Draft
+10,1610612761,2025,00,Ja'Kobe Walter,Ja'Kobe,jakobe-walter,14,G,6-5,180,"SEP 04, 2004",21.0,1,Baylor,1642266,#19 Pick in 2024 Draft
+11,1610612761,2025,00,Garrett Temple,Garrett,garrett-temple,17,G-F,6-5,195,"MAY 08, 1986",39.0,15,Louisiana State,202066,Signed on 07/31/23
+12,1610612761,2025,00,Jakob Poeltl,Jakob,jakob-poeltl,19,C,7-0,260,"OCT 15, 1995",29.0,9,Utah,1627751,Traded from SAS on 02/09/23
+13,1610612761,2025,00,Ulrich Chomche,Ulrich,ulrich-chomche,22,C,6-11,235,"DEC 30, 2005",19.0,1,NBA Global Academy,1642279,Draft Rights Traded from MEM on 07/06/24
+14,1610612761,2025,00,Jamal Shead,Jamal,jamal-shead,23,G,6-1,200,"JUL 24, 2002",23.0,1,Houston,1642347,Draft Rights Traded from SAC on 06/28/24
+15,1610612761,2025,00,Olivier Sarr,Olivier,olivier-sarr,30,C,6-10,240,"FEB 20, 1999",26.0,3,Kentucky,1630846,Signed on 08/01/25
+16,1610612761,2025,00,Ochai Agbaji,Ochai,ochai-agbaji,30,G,6-5,215,"APR 20, 2000",25.0,3,Kansas,1630534,Traded from UTA on 02/08/24
+17,1610612761,2025,00,David Roddy,David,david-roddy,45,F,6-4,255,"MAR 27, 2001",24.0,3,Colorado State,1631223,Signed on 07/10/25
+18,1610612761,2025,00,Sandro Mamukelashvili,Sandro,sandro-mamukelashvili,54,F-C,6-9,240,"MAY 23, 1999",26.0,4,Seton Hall,1630572,Signed on 07/03/25
+19,1610612761,2025,00,Alijah Martin,Alijah,alijah-martin,55,G,6-2,210,"DEC 26, 2001",23.0,R,Florida,1642918,#39 Pick in 2025 Draft
+20,1610612761,2025,00,Jamison Battle,Jamison,jamison-battle,77,F,6-7,220,"MAY 10, 2001",24.0,1,Ohio State,1642419,Signed on 07/16/24

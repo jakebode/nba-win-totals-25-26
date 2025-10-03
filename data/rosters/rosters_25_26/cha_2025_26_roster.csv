@@ -1,0 +1,22 @@
+,TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+0,1610612766,2025,00,DJ Rodman,DJ,dj-rodman,,G,6-6,215,"APR 25, 2001",24.0,R,Southern California,1642485,Signed on 09/22/25
+1,1610612766,2025,00,Miles Bridges,Miles,miles-bridges,0,F,6-7,225,"MAR 21, 1998",27.0,6,Michigan State,1628970,Draft Rights Traded from LAC on 06/21/18
+2,1610612766,2025,00,LaMelo Ball,LaMelo,lamelo-ball,1,G,6-7,180,"AUG 22, 2001",24.0,5,Illawarra,1630163,#3 Pick in 2020 Draft
+3,1610612766,2025,00,Grant Williams,Grant,grant-williams,2,F,6-6,236,"NOV 30, 1998",26.0,6,Tennessee,1629684,Traded from DAL on 02/08/24
+4,1610612766,2025,00,Sion James,Sion,sion-james,4,G,6-6,220,"DEC 04, 2002",22.0,R,Duke,1642883,#33 Pick in 2025 Draft
+5,1610612766,2025,00,Kon Knueppel,Kon,kon-knueppel,7,G-F,6-5,215,"AUG 03, 2005",20.0,R,Duke,1642851,#4 Pick in 2025 Draft
+6,1610612766,2025,00,Collin Sexton,Collin,collin-sexton,8,G,6-3,190,"JAN 04, 1999",26.0,7,Alabama,1629012,Traded from UTA on 06/29/25
+7,1610612766,2025,00,Josh Green,Josh,josh-green,10,G,6-5,200,"NOV 16, 2000",24.0,5,Arizona,1630182,Traded from DAL on 07/06/24
+8,1610612766,2025,00,Ryan Kalkbrenner,Ryan,ryan-kalkbrenner,11,C,7-1,256,"JAN 17, 2002",23.0,R,Creighton,1641750,#34 Pick in 2025 Draft
+9,1610612766,2025,00,Antonio Reeves,Antonio,antonio-reeves,12,G,6-5,205,"NOV 20, 2000",24.0,1,Kentucky,1641810,Signed on 07/25/25
+10,1610612766,2025,00,Drew Peterson,Drew,drew-peterson,13,F,6-9,205,"NOV 09, 1999",25.0,2,Southern California,1641809,Signed on 07/16/25
+11,1610612766,2025,00,Moussa Diabaté,Moussa,moussa-diabaté,14,F,6-9,210,"JAN 21, 2002",23.0,3,Michigan,1631217,Signed on 07/31/24
+12,1610612766,2025,00,Pat Connaughton,Pat,pat-connaughton,21,G,6-5,209,"JAN 06, 1993",32.0,10,Notre Dame,1626192,Traded from MIL on 07/06/25
+13,1610612766,2025,00,Mason Plumlee,Mason,mason-plumlee,22,F-C,6-10,254,"MAR 05, 1990",35.0,12,Duke,203486,Signed on 07/13/25
+14,1610612766,2025,00,Tre Mann,Tre,tre-mann,23,G,6-3,178,"FEB 03, 2001",24.0,4,Florida,1630544,Traded from OKC on 02/08/24
+15,1610612766,2025,00,Brandon Miller,Brandon,brandon-miller,24,F,6-7,200,"NOV 22, 2002",22.0,2,Alabama,1641706,#2 Pick in 2023 Draft
+16,1610612766,2025,00,KJ Simpson,KJ,kj-simpson,25,G,6-0,189,"AUG 08, 2002",23.0,1,Colorado,1642354,#42 Pick in 2024 Draft
+17,1610612766,2025,00,Spencer Dinwiddie,Spencer,spencer-dinwiddie,26,G,6-5,215,"APR 06, 1993",32.0,11,Colorado,203915,Signed on 07/13/25
+18,1610612766,2025,00,Tidjane Salaün,Tidjane,tidjane-salaün,31,F,6-8,207,"AUG 10, 2005",20.0,1,Cholet,1642275,#6 Pick in 2024 Draft
+19,1610612766,2025,00,Liam McNeeley,Liam,liam-mcneeley,33,F,6-7,210,"OCT 10, 2005",19.0,R,Connecticut,1642862,Draft Rights Traded from PHX on 06/30/25
+20,1610612766,2025,00,Ibou Badji,Ibou,ibou-badji,41,C,7-0,240,"OCT 13, 2002",22.0,1,FC Barcelona,1630641,Signed on 09/30/25

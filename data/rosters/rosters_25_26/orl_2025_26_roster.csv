@@ -1,0 +1,22 @@
+,TeamID,SEASON,LeagueID,PLAYER,NICKNAME,PLAYER_SLUG,NUM,POSITION,HEIGHT,WEIGHT,BIRTH_DATE,AGE,EXP,SCHOOL,PLAYER_ID,HOW_ACQUIRED
+0,1610612753,2025,00,Alex Morales,Alex,alex-morales,,G,6-6,180,"NOV 21, 1997",27.0,R,Wagner,1631457,Signed on 10/08/22
+1,1610612753,2025,00,Anthony Black,Anthony,anthony-black,0,G,6-7,200,"JAN 20, 2004",21.0,2,Arkansas,1641710,#6 Pick in 2023 Draft
+2,1610612753,2025,00,Jonathan Isaac,Jonathan,jonathan-isaac,1,F,6-10,230,"OCT 03, 1997",27.0,6,Florida State,1628371,#6 Pick in 2017 Draft
+3,1610612753,2025,00,Tyus Jones,Tyus,tyus-jones,2,G,6-1,196,"MAY 10, 1996",29.0,10,Duke,1626145,Signed on 07/06/25
+4,1610612753,2025,00,Desmond Bane,Desmond,desmond-bane,3,G,6-5,215,"JUN 25, 1998",27.0,5,TCU,1630217,Traded from MEM on 06/15/25
+5,1610612753,2025,00,Jalen Suggs,Jalen,jalen-suggs,4,G,6-5,205,"JUN 03, 2001",24.0,4,Gonzaga,1630591,#5 Pick in 2021 Draft
+6,1610612753,2025,00,Paolo Banchero,Paolo,paolo-banchero,5,F,6-10,250,"NOV 12, 2002",22.0,3,Duke,1631094,#1 Pick in 2022 Draft
+7,1610612753,2025,00,Jamal Cain,Jamal,jamal-cain,8,F,6-6,191,"MAR 20, 1999",26.0,3,Oakland,1631288,Signed on 07/25/25
+8,1610612753,2025,00,Jase Richardson,Jase,jase-richardson,11,G,6-0,180,"OCT 16, 2005",19.0,R,Michigan State,1642859,#25 Pick in 2025 Draft
+9,1610612753,2025,00,Jett Howard,Jett,jett-howard,13,G,6-6,215,"SEP 14, 2003",22.0,2,Michigan,1641724,#11 Pick in 2023 Draft
+10,1610612753,2025,00,Colin Castleton,Colin,colin-castleton,14,C,6-10,250,"MAY 25, 2000",25.0,2,Florida,1630658,Signed on 08/22/25
+11,1610612753,2025,00,Justin Minaya,Justin,justin-minaya,15,F,6-5,205,"MAR 26, 1999",26.0,3,Providence,1631303,Signed on 09/02/25
+12,1610612753,2025,00,Orlando Robinson,Orlando,orlando-robinson,21,C,6-10,235,"JUL 10, 2000",25.0,3,Fresno State,1631115,Signed on 07/21/25
+13,1610612753,2025,00,Moritz Wagner,Moritz,moritz-wagner,21,F-C,6-11,245,"APR 26, 1997",28.0,7,Michigan,1629021,Signed on 04/27/21
+14,1610612753,2025,00,Franz Wagner,Franz,franz-wagner,22,F,6-10,220,"AUG 27, 2001",24.0,4,Michigan,1630532,#8 Pick in 2021 Draft
+15,1610612753,2025,00,Tristan da Silva,Tristan,tristan-da-silva,23,F,6-8,217,"MAY 15, 2001",24.0,1,Colorado,1641783,#18 Pick in 2024 Draft
+16,1610612753,2025,00,Lester Quinones,Lester,lester-quinones,24,G,6-4,208,"NOV 16, 2000",24.0,3,Memphis,1631311,Signed on 09/02/25
+17,1610612753,2025,00,Reece Beekman,Reece,reece-beekman,26,G,6-3,190,"OCT 08, 2001",23.0,1,Virginia,1641736,Signed on 09/02/25
+18,1610612753,2025,00,Wendell Carter Jr.,Wendell,wendell-carter-jr,34,C-F,6-10,270,"APR 16, 1999",26.0,7,Duke,1628976,Traded from CHI on 03/25/21
+19,1610612753,2025,00,Goga Bitadze,Goga,goga-bitadze,35,C-F,6-10,250,"JUL 20, 1999",26.0,6,Mega Basket,1629048,Signed on 02/13/23
+20,1610612753,2025,00,Noah Penda,Noah,noah-penda,93,G-F,6-6,215,"JAN 07, 2005",20.0,R,,1642869,Draft Rights Traded from BOS on 06/26/25
